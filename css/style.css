@@ -39,6 +39,14 @@ h1,h2,h3,h4,h5,h6{
 	font-weight:bold;
 }
 
+h3,h4{
+	color:#9B9B9B;
+}
+
+
+
+
+
 a{
 	color:#000000;
 	text-decoration:none;
