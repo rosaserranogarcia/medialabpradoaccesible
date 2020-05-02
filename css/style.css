@@ -43,7 +43,9 @@ h3,h4{
 	color:#9B9B9B;
 }
 
-
+h4{
+	font-weight:normal;
+}
 
 
 
@@ -237,15 +239,19 @@ table tr th :first-child,table tr td :first-child{margin:0}
 table tr th :last-child,table tr td :last-child{margin:0}
 
 #markdown-toc::before{
-	content:"PROYECTOS";
-	font-weight:bold;
+	content:"LISTADO DE PROYECTOS:";
+	font-weight:normal;
+  	color: #939393
 }
 
 #markdown-toc ul{list-style:decimal}
 
 #markdown-toc{
-	border:1px solid #000000;
-	padding:1.5em;
+	border:1px solid #939393;
+	padding-top: 20px;
+  	padding-right: 20px;
+  	padding-bottom: 20px;
+  	padding-left: 40px;
 	list-style:decimal;
 	display:inline-block;
 }
