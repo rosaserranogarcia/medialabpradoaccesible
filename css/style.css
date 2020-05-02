@@ -242,9 +242,7 @@ table tr th :first-child,table tr td :first-child{margin:0}
 
 table tr th :last-child,table tr td :last-child{margin:0}
 
-#markdown-toc::before{
-	
-}
+
 
 #markdown-toc ul{list-style:decimal}
 
