@@ -34,38 +34,34 @@
 <!-- titulo exposicion, foto y tabla de contenidos -->
   			
 	<div class="home">
-		<h1 class="post-list">EL PROYECTO DE MEDIALAB ACCESIBLE</h1>
+		<h1 class="post-list">EL FABLAB</h1>
 		<p><img src="images/marcador-imagen.jpg" alt="Descripción de la imagen." /><br></p>
 		<br>	
 		<ul id="markdown-toc">
-          		<li><a href="#cap1">Capítulo 1</a></li>
-			<li><a href="#cap2">Capítulo 2</a></li>
-			<li><a href="#cap3">Capítulo 3</a></li>
-			<li><a href="#cap4">Capítulo 4</a></li>
+          		<li><a href="#cap1">¿Qué es el Fablab?</a></li>
+			<li><a href="#cap2">Ubicación y acceso</a></li>
+			<li><a href="#cap3">Descripción del Fablab</a></li>
+			<li><a href="#cap4">Las máquinas del Fablab4</a></li>
 		</ul>
 		<br>
 		<br>
 
 <!-- capítulo 1 -->
 		
-		<h2 id="cap1">CAPÍTULO 1</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
-		<br>
-		<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		<h2 id="cap1">¿QUÉ ES EL FABLAB?</h2>
+		<p>Una de las peculiaridades de Medialab es que tiene un laboratorio de fabricación digital o Fablab, en el que podemos encontrar impresoras 3D, una cortadora láser y una CNC o fresadora. Su uso está limitado a grupos de trabajo cuyos proyectos requieren utilizar este tipo de máquinas.
 		<br>
 		<br>
 		<a href="#markdown-toc">&#8679; <i>Volver arriba</i></a>
-		<br>
 		<br>
       		<div class="color-bars-header"><div class="cor-head colr-1"></div><div class="cor-head colr-1"></div><div class="cor-head colr-1"></div><div class="cor-head colr-1"></div><div class="cor-head colr-1"></div><div class="cor-head colr-1"></div><div class="cor-head colr-1"></div><div class="cor-head colr-1"></div></div>
 		<br>
 <!-- capítulo 2 -->
 		
-		<h2 id="cap2">CAPÍTULO 2</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
-		<br>
-		<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		<br>
+		<h2 id="cap2">UBICACIÓN Y ACCESO</h2>
+		<p>El espacio del Fablab está en el sótano, justo debajo de la Plaza de las Letras, por lo que sus ventanas quedan a ras del suelo a nivel de la calle y a gran altura en el interior. Aunque se sitúa fuera de la estructura del edificio original, se accede a través de la nave Alameda, bajando un piso por el ascensor o por una escalera de madera que está a la derecha de la puerta principal.
+		<br>La escalera arranca frente al puesto de información y baja entre paredes de madera curvándose ligeramente hacia la izquierda, paralela a la fachada principal. Una vez abajo, tras este tramo de 14 peldaños, nos encontramos a la derecha con el Fablab y a la izquierda con el túnel que lleva al ascensor. 
+		<br>El ascensor de Medialab tiene dos puertas enfrentadas, cuando lo usamos para acceder al Fablab, entramos por una y salimos por la otra. Atravesando un túnel en curva con rampa ascendente, desembocamos frente a la puerta del Fablab, dejando a nuestra derecha la escalera que sube a la entrada de Medialab. Este túnel está recubierto en su totalidad, paredes y techo, de madera clara de superficie rugosa, sin tratar y sin lijar. El suelo es de parqué barnizado del mismo color. Antes de entrar, en la pared de la izquierda, hay un cartel con letras en relieve que pone Fablab, con la tipografía original que decora las fachadas exteriores del edificio. 
 		<br>
 		<a href="#markdown-toc">&#8679; <i>Volver arriba</i></a>
 		<br>
@@ -75,7 +71,7 @@
       
 <!-- capítulo 3 -->
 		
-		<h2 id="cap3">CAPÍTULO 3</h2>
+		<h2 id="cap3">DESCRIPCIÓN DEL FABLAB</h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
 		<br>
 		<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -89,7 +85,7 @@
       
 <!-- capítulo 4 -->
 		
-		<h2 id="cap4">CAPÍTULO 4</h2>
+		<h2 id="cap4">LAS MÁQUINAS DEL FABLAB</h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
 		<br>
 		<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
